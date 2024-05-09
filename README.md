@@ -20,5 +20,5 @@ source ~/.bashrc
 ## Press Tab Twice after typing ros2
 It will show all the commands that you can use
 
-01 run = To run any package / executable
+01 run = To run any package / executable \
 02 pkg = To crate the package
