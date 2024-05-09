@@ -1,4 +1,5 @@
 # Notes
+Practice Project based on ROS2 For Beginners course.
 
 ## Re-build the project after every change
 $ colcon build --packages-select my_py_pkg
