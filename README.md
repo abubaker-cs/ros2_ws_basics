@@ -24,7 +24,7 @@ It will show all the commands that you can use
 02 pkg = To crate the package
 
 ## Demo Project
-` ros2 run demo_nodes_cpp ` (tab twice)
+` ros2 run demo_nodes_cpp ` (tab twice) \
 ` ros2 run demo_nodes_cpp talker `
 
 
@@ -41,3 +41,20 @@ It will show all the commands that you can use
 
 ` ros2 run my_py_pkg py_node `
 
+run the following command in another terminal
+
+` ros2 node list ` \
+
+or 
+
+` ros2 node info /py_test `
+
+<h3>Information about:</h3>
+<ul>
+<li>Subscribers</li>
+<li>Publishers</li>
+<li>Service Servers</li>
+<li>Service Clients</li>
+<li>Action Servers</li>
+<li>Action Clients</li>
+</ul>
